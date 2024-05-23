@@ -1,8 +1,15 @@
 /******************************************************************************
 Autor:   Sara Alvarez 
 Lenguje  usado :  c#
-fecha:  2024-05-22
-Descripción: 
+fecha:  2024-05-23
+Descripción: Un docente requiere de un sistema de notas
+                 donde recibe 4 calificaciones generando un 
+                 promedio y luego determinando si gana o 
+                 pierde.
+                 Si su promedio es menor a 3 pierde 
+                 Si es mayor gana
+                 Si tiene un promedio mayor a 4.5 emitir mensaje:
+                 "Felicidades, te has ganado una beca"
 *******************************************************************************/
 using System;
 class programaDescueto {
